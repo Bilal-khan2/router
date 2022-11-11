@@ -1,0 +1,5 @@
+div.nav{
+  display: flex;
+  background-color: black;
+  justify-content: space-evenly;
+}
